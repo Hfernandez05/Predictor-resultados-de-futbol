@@ -1,0 +1,11 @@
+venv/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+# CSV intermedios que genera el notebook
+*_balanceado.csv
+*_desbalanceado.csv
+*_sin_outliers.csv
+*_5pct_outliers.csv
+subset_*.csv

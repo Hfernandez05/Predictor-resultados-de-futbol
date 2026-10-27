@@ -92,5 +92,5 @@ Abre `01_predictor_de_partidos.ipynb` y ejecuta las celdas en orden. El notebook
 ## 👤 Autor
 
 **Harrison Andrés Fernández Bolaño** — Ingeniero de Sistemas
-📧 Hfernandez@unal.edu.co · 💼 [LinkedIn](https://www.linkedin.com/in/haanferbol/) · 🐙 [GitHub](https://github.com/Hfernandez05)
+📧 Hfernandez@unal.edu.co · 💼 [LinkedIn](https://www.linkedin.com/in/haanferbol) · 🐙 [GitHub](https://github.com/Hfernandez05)
 
